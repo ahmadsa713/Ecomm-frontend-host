@@ -14,3 +14,10 @@ Run `ng generate component component-name` to generate a new component. You can 
 
 Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
 
+##
+link to backend 
+
+https://github.com/ahmadsa713/Ecomm-back-host/tree/main
+
+should run both at the same time in order to get data.
+
